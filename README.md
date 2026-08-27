@@ -1,302 +1,161 @@
-<div align="center">
+```md
+<h1 align="center">Hi, I'm Rajsfano Priariya Barisky</h1>
 
-# Rajsfano Priariya Barisky
+<h3 align="center">
+SOC Analyst in Training | Software Engineering Student
+</h3>
 
-### SOC Analyst in Training · Software Engineering Student
+<p align="center">
+Cybersecurity • Blue Team • AI Security • Secure Software Development
+</p>
 
-**Cybersecurity · Blue Team · AI Security · Secure Software Development**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajsfanopriariyabarisky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/rajsfano/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajsfano%20Priariya%20Barisky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+### About Me
+
+I'm a **Software Engineering student** with a strong interest in **Cybersecurity**, particularly in Blue Team operations, threat detection, network security, cloud security, and AI-driven security solutions.
+
+- Currently strengthening my skills in **Cybersecurity, Blue Team, and Security Operations**
+- Exploring the intersection of **Artificial Intelligence and Cybersecurity**
+- Building web applications to improve my understanding of **secure software development**
+- Experienced in technical troubleshooting, system maintenance, and network-connected systems
+- Open to internship and entry-level opportunities in **Cybersecurity, Backend Development, and Software Engineering**
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajsfano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+
+  <a href="https://www.instagram.com/rajsfano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
+</p>
+
+---
+
+### Languages and Tools
+
+<p align="left">
+
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 </a>
-&nbsp;
-<a href="https://www.instagram.com/rajsfano/">
-  <img src="https://img.shields.io/badge/Instagram-@rajsfano-181717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </a>
 
-<br><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=rajsfanopriariyabarisky&label=Profile%20Views&color=181717&style=flat-square" alt="Profile Views">
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+</a>
 
-</div>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
 
----
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
 
-## About Me
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+</a>
 
-I'm a **Software Engineering student** with a growing focus on **Cybersecurity**, particularly in **Blue Team operations, threat detection, cloud security, and AI-driven security solutions**.
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</a>
 
-My background in software development and technical support has shaped the way I approach cybersecurity: understanding how systems are built, how they operate, where they can fail, and how they can be made more secure.
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</a>
 
-I continuously strengthen my technical foundation through hands-on projects, cybersecurity training, software development, and practical experience working with real-world systems.
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
 
-> **Understand the system. Identify the risk. Build it more securely.**
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
 
----
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="45" height="45" alt="Kali Linux"/>
+</a>
 
-## Security Focus
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+</a>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Blue Team
-
-- Security Operations
-- Threat Detection
-- Incident Analysis
-- Defensive Security
-- Security Monitoring
-
-</td>
-
-<td width="33%" valign="top">
-
-### Cybersecurity
-
-- Network Security
-- Cloud Security
-- Web Security
-- Vulnerability Awareness
-- Secure Development
-
-</td>
-
-<td width="33%" valign="top">
-
-### AI Security
-
-- AI in Cybersecurity
-- Security Automation
-- AI-Assisted Analysis
-- Intelligent Threat Detection
-- Security Data Analysis
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## Technical Stack
+### Cybersecurity Focus
 
-<div align="center">
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql&theme=dark" alt="Development Stack">
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-181717?style=flat-square&logo=hackthebox&logoColor=9FEF00">
-<img src="https://img.shields.io/badge/Blue%20Team-181717?style=flat-square&logo=shield&logoColor=white">
-<img src="https://img.shields.io/badge/Network%20Security-181717?style=flat-square&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20Security-181717?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Secure%20Development-181717?style=flat-square&logo=owasp&logoColor=white">
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Blue%20Team-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Operations-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-232F3E?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Security-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-## Cybersecurity Direction
+### Certifications & Training
 
-```text
-                    SECURITY OPERATIONS
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-          BLUE TEAM     NETWORK      CLOUD
-              │          SECURITY     SECURITY
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                    THREAT DETECTION
-                           │
-                           ▼
-                    INCIDENT ANALYSIS
-                           │
-                           ▼
-                  AI-ASSISTED SECURITY
+- **AI in Cybersecurity Fundamentals**
+- **Network Security Fundamentals**
+- **Palo Alto Networks Certified Cybersecurity Apprentice**
+- **Junior Python Developer — Programming Foundations & OOP**
+- **Program Analyst Competency Certification — BNSP**
 
-My current direction combines Cybersecurity, Artificial Intelligence, and Software Engineering.
+---
 
-I am particularly interested in understanding how AI can support security operations through automation, pattern recognition, intelligent analysis, and threat detection.
+### Featured Project
 
-Certifications & Training
-<table> <tr> <td width="50%" valign="top">
-Cybersecurity
-AI in Cybersecurity Fundamentals
-Network Security Fundamentals
-Palo Alto Networks Certified Cybersecurity Apprentice
-Cybersecurity Fundamentals
-Cloud Security Fundamentals
-Security Operations Fundamentals
-</td> <td width="50%" valign="top">
-Software & Programming
-Junior Python Developer
-Programming Foundations
-Object-Oriented Programming
-Program Analyst — BNSP Competency Certification
-</td> </tr> </table>
-Professional Experience
-Parking System Technician
+#### Hostel Barbershop — Booking & Management System
 
-Asnoor Parking Indonesia
+A web-based barbershop booking and management application built with **PHP and MySQL**, featuring online booking, user profiles, service packages, reviews, payment flow, and an administrative dashboard.
 
-Nov 2023 — Feb 2025
+This project strengthened my understanding of full-stack web development and security-sensitive areas such as authentication, access control, input validation, session handling, and database interaction.
 
-Worked with automated parking systems and supporting technical infrastructure.
+<p>
+  <a href="https://hostelbarbershop.ifree.page/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Website-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
-Key responsibilities included:
+  <a href="https://github.com/rajsfanopriariyabarisky/HostelBarbershop">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Troubleshooting automated parking hardware and system components
-Supporting network connectivity between parking equipment and local systems
-Diagnosing issues affecting payment devices and transaction processing
-Configuring system parameters and operational settings
-Managing vehicle database records
-Monitoring system performance
-Performing functional testing
-Conducting preventive maintenance
-Resolving technical incidents with operational teams
-Maintaining system reliability and transaction integrity
+---
 
-This experience strengthened my understanding of how hardware, networking, software, data, and operational systems interact in real-world environments.
+### GitHub Statistics
 
-IT Support Technician
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsfanopriariyabarisky&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-SSL Service Tech
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajsfanopriariyabarisky&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-Sep 2022 — Oct 2023
+---
 
-Developed practical experience in:
-
-Hardware and software troubleshooting
-Operating system installation and configuration
-Workstation and peripheral setup
-System functionality and stability testing
-Technical issue diagnosis
-Basic data protection practices
-Preventing unauthorized access to user files
-Technical documentation
-Root-cause problem solving
-
-This role provided an early foundation in system troubleshooting, security awareness, technical support, and operational reliability.
-
-Featured Project
-Hostel Barbershop
-
-Premium Grooming & Booking Web Application
-
-Hostel Barbershop is a web-based booking and management system developed to provide a structured digital experience for a grooming business.
-
-The system combines customer-facing interfaces with booking functionality, service management, user profiles, and administrative features.
-
-<div align="center"> <img src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4"> <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1"> <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </div>
-Project Features
-Hostel Barbershop
-│
-├── Landing Page
-├── Service Packages
-├── Online Booking
-├── Customer Profiles
-├── Customer Dashboard
-├── Payment Flow
-├── Reviews
-└── Admin Dashboard
-
-Building this project strengthened my understanding of full-stack web application development while also increasing my awareness of security-sensitive areas such as:
-
-Authentication
-Authorization
-Access control
-User input handling
-Data validation
-Database interaction
-Session management
-Secure application design
-<br> <a href="https://hostelbarbershop.ifree.page/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-VIEW%20PROJECT-181717?style=for-the-badge&logo=googlechrome&logoColor=white"> </a>
-Security Mindset
-BUILD
-  │
-  ▼
-UNDERSTAND
-  │
-  ▼
-ANALYZE
-  │
-  ▼
-SECURE
-  │
-  ▼
-MONITOR
-  │
-  ▼
-IMPROVE
-
-Software engineering helps me understand how systems are designed and built.
-
-Cybersecurity teaches me to analyze how those systems can fail, be attacked, or be misconfigured.
-
-Artificial Intelligence introduces new opportunities for security automation, intelligent analysis, and data-driven threat detection.
-
-My goal is to continue developing at the intersection of these three areas.
-
-Current Learning Path
-Cybersecurity Fundamentals
-        │
-        ▼
-Network & Security Operations
-        │
-        ▼
-Blue Team & Threat Detection
-        │
-        ▼
-Cloud & Application Security
-        │
-        ▼
-Python & Security Automation
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-AI-Assisted Cybersecurity
-Education
-Universitas Bina Sarana Informatika
-
-Bachelor's Degree — Computer Software Engineering
-
-2023 — 2027
-
-Currently strengthening my academic and practical foundation in software engineering while developing a specialization in cybersecurity.
-
-GitHub Overview
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajsfanopriariyabarisky&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsfanopriariyabarisky&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"> </div>
-Connect
-<div align="center">
-
-Interested in connecting with people working in Cybersecurity, Blue Team, AI Security, and Software Engineering.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/rajsfano/"> <img src="https://img.shields.io/badge/LinkedIn-Rajsfano%20Priariya%20Barisky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> &nbsp; <a href="https://www.instagram.com/rajsfano/"> <img src="https://img.shields.io/badge/Instagram-@rajsfano-181717?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-
-<br><br>
-
-Cybersecurity · Blue Team · AI Security · Software Engineering
-
-<sub>Learning continuously. Building intentionally. Thinking securely.</sub>
-
-</div> ```
+<p align="center">
+  <b>Building software. Understanding systems. Thinking securely.</b>
+</p>
+```
