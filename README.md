@@ -1,10 +1,10 @@
 <div align="center">
 
-Rajsfano Priariya Barisky
+# Rajsfano Priariya Barisky
 
-SOC Analyst in Training · Software Engineering Student
+### SOC Analyst in Training · Software Engineering Student
 
-Cybersecurity · Blue Team · AI Security · Secure Software Development
+**Cybersecurity · Blue Team · AI Security · Secure Software Development**
 
 <p>
   <a href="https://www.linkedin.com/in/rajsfano/">
@@ -21,21 +21,22 @@ Cybersecurity · Blue Team · AI Security · Secure Software Development
 
 </div>
 
-Professional Summary
+---
 
-I'm a Software Engineering student building a career toward Cybersecurity and Security Operations, with a particular interest in Blue Team operations, threat detection, network security, cloud security, and AI-assisted security.
+## Professional Summary
+
+I'm a **Software Engineering student** building a career toward **Cybersecurity and Security Operations**, with a particular interest in **Blue Team operations, threat detection, network security, cloud security, and AI-assisted security**.
 
 My technical background combines software development with hands-on troubleshooting of real-world systems. I use that foundation to better understand how applications, networks, data, and infrastructure work together — and how they can be designed and operated more securely.
 
-Developing practical skills in SOC operations, defensive security, and secure software development
+* Developing practical skills in **SOC operations, defensive security, and secure software development**
+* Exploring the role of **Artificial Intelligence in cybersecurity analysis and automation**
+* Building software projects to strengthen my understanding of **application architecture, databases, authentication, and access control**
+* Open to **internship and entry-level opportunities** in Cybersecurity, Backend Development, and Software Engineering
 
-Exploring the role of Artificial Intelligence in cybersecurity analysis and automation
+---
 
-Building software projects to strengthen my understanding of application architecture, databases, authentication, and access control
-
-Open to internship and entry-level opportunities in Cybersecurity, Backend Development, and Software Engineering
-
-Core Focus
+## Core Focus
 
 <p align="left">
   <img src="https://img.shields.io/badge/Blue%20Team-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Blue Team">
@@ -47,9 +48,11 @@ Core Focus
   <img src="https://img.shields.io/badge/Secure%20Software%20Development-2F855A?style=for-the-badge&logo=owasp&logoColor=white" alt="Secure Software Development">
 </p>
 
-Technology Stack
+---
 
-Software Engineering
+## Technology Stack
+
+### Software Engineering
 
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"></a>
@@ -66,7 +69,7 @@ Software Engineering
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"></a>
 </p>
 
-Cybersecurity & Systems
+### Cybersecurity & Systems
 
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"></a>
@@ -76,7 +79,7 @@ Cybersecurity & Systems
   <img src="https://img.shields.io/badge/Security%20Operations-18181B?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security Operations">
 </p>
 
-AI & Automation
+### AI & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
@@ -85,7 +88,9 @@ AI & Automation
   <img src="https://img.shields.io/badge/Security%20Automation-2F855A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Security Automation">
 </p>
 
-Certifications & Training
+---
+
+## Certifications & Training
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20in%20Cybersecurity-Fundamentals-412991?style=flat-square&logo=openai&logoColor=white" alt="AI in Cybersecurity Fundamentals">
@@ -95,21 +100,25 @@ Certifications & Training
   <img src="https://img.shields.io/badge/BNSP-Program%20Analyst-374151?style=flat-square" alt="BNSP Program Analyst">
 </p>
 
-Experience Highlights
+---
 
-Parking System Technician — Asnoor Parking Indonesia
+## Experience Highlights
+
+**Parking System Technician — Asnoor Parking Indonesia**
 Worked with automated parking systems, network-connected devices, payment components, system configuration, database records, monitoring, troubleshooting, and incident resolution.
 
-IT Support Technician — SSL Service Tech
+**IT Support Technician — SSL Service Tech**
 Supported hardware, software, operating systems, workstation setup, technical troubleshooting, system stability, basic data protection, and technical documentation.
 
-These experiences strengthened my practical understanding of systems, networks, operational reliability, troubleshooting, and security awareness.
+These experiences strengthened my practical understanding of **systems, networks, operational reliability, troubleshooting, and security awareness**.
 
-Featured Project
+---
 
-Hostel Barbershop — Booking & Management System
+## Featured Project
 
-A web-based booking and management application built with PHP and MySQL, featuring online booking, user profiles, service packages, reviews, payment flow, and an administrative dashboard.
+### Hostel Barbershop — Booking & Management System
+
+A web-based booking and management application built with **PHP and MySQL**, featuring online booking, user profiles, service packages, reviews, payment flow, and an administrative dashboard.
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -118,7 +127,7 @@ A web-based booking and management application built with PHP and MySQL, featuri
   <img src="https://img.shields.io/badge/Secure%20Development-2F855A?style=flat-square&logo=owasp&logoColor=white" alt="Secure Development">
 </p>
 
-The project helped strengthen my understanding of application structure and security-sensitive areas including authentication, authorization, input validation, session handling, database interaction, and access control.
+The project helped strengthen my understanding of application structure and security-sensitive areas including **authentication, authorization, input validation, session handling, database interaction, and access control**.
 
 <p>
   <a href="https://hostelbarbershop.ifree.page/">
@@ -129,18 +138,10 @@ The project helped strengthen my understanding of application structure and secu
   </a>
 </p>
 
-GitHub Overview
+---
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsfanopriariyabarisky&theme=github_dark" alt="GitHub Profile Summary">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsfanopriariyabarisky&theme=github_dark" alt="Repositories per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsfanopriariyabarisky&theme=github_dark" alt="GitHub Stats">
-</p>
-
-Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajsfano/">
