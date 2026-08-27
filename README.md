@@ -6,27 +6,6 @@
 
 **Cybersecurity · Blue Team · AI Security · Secure Software Development**
 
-### Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajsfano/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="40"
-      width="50"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/rajsfano/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      height="40"
-      width="50"
-    />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajsfanopriariyabarisky&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views">
@@ -62,6 +41,27 @@ My technical background combines software development with hands-on exposure to 
 </p>
 
 ---
+### Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajsfano/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="40"
+      width="50"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/rajsfano/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="40"
+      width="50"
+    />
+  </a>
+</p>
 
 ## Technology Stack
 
