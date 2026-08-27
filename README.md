@@ -6,15 +6,25 @@
 
 **Cybersecurity · Blue Team · AI Security · Secure Software Development**
 
-<br>
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajsfano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="48">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="40"
+      width="50"
+    />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/rajsfano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="48">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="40"
+      width="50"
+    />
   </a>
 </p>
 
@@ -198,9 +208,5 @@ The project helped strengthen my understanding of application structure and secu
 ---
 
 <p align="center">
-  <b>Cybersecurity · AI Security · Software Engineering</b>
-</p>
-
-<p align="center">
-  Building reliable software. Understanding systems. Thinking securely.
+  <b>Building reliable software. Understanding systems. Thinking securely.</b>
 </p>
