@@ -125,26 +125,5 @@ The project helped strengthen my understanding of application structure and secu
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
 </p>
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsfanopriariyabarisky&theme=github_dark" alt="GitHub Profile Summary">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajsfanopriariyabarisky&theme=github_dark" alt="Repositories per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsfanopriariyabarisky&theme=github_dark" alt="GitHub Stats">
-</p>
-
----
-
-<p align="center">
-  <b>Cybersecurity · AI Security · Software Engineering</b>
-</p>
-
-<p align="center">
   Building reliable software. Understanding systems. Thinking securely.
 </p>
