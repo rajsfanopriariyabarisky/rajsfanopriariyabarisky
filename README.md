@@ -101,17 +101,6 @@ My technical background combines software development with hands-on troubleshoot
 </p>
 
 ---
-
-## Experience Highlights
-
-**Parking System Technician — Asnoor Parking Indonesia**
-Worked with automated parking systems, network-connected devices, payment components, system configuration, database records, monitoring, troubleshooting, and incident resolution.
-
-**IT Support Technician — SSL Service Tech**
-Supported hardware, software, operating systems, workstation setup, technical troubleshooting, system stability, basic data protection, and technical documentation.
-
-These experiences strengthened my practical understanding of **systems, networks, operational reliability, troubleshooting, and security awareness**.
-
 ---
 
 ## Featured Project
@@ -139,22 +128,6 @@ The project helped strengthen my understanding of application structure and secu
 </p>
 
 ---
----
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajsfano/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/rajsfano/">
-    <img src="https://img.shields.io/badge/Instagram-@rajsfano-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<p align="center">
-  <b>Cybersecurity · AI Security · Software Engineering</b>
-</p>
 
 <p align="center">
   Building reliable software. Understanding systems. Thinking securely.
