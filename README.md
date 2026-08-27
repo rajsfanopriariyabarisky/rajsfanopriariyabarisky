@@ -27,12 +27,12 @@
 
 I'm a **Software Engineering student** building a career toward **Cybersecurity and Security Operations**, with a particular interest in **Blue Team operations, threat detection, network security, cloud security, and AI-assisted security**.
 
-My technical background combines software development with hands-on troubleshooting of real-world systems. I use that foundation to better understand how applications, networks, data, and infrastructure work together — and how they can be designed and operated more securely.
+My technical background combines software development with hands-on exposure to real-world systems. I use that foundation to better understand how applications, networks, data, and infrastructure work together — and how they can be designed and operated more securely.
 
-* Developing practical skills in **SOC operations, defensive security, and secure software development**
-* Exploring the role of **Artificial Intelligence in cybersecurity analysis and automation**
-* Building software projects to strengthen my understanding of **application architecture, databases, authentication, and access control**
-* Open to **internship and entry-level opportunities** in Cybersecurity, Backend Development, and Software Engineering
+- Developing practical skills in **SOC operations, defensive security, and secure software development**
+- Exploring the role of **Artificial Intelligence in cybersecurity analysis and automation**
+- Building software projects to strengthen my understanding of **application architecture, databases, authentication, and access control**
+- Open to **internship and entry-level opportunities** in Cybersecurity, Backend Development, and Software Engineering
 
 ---
 
@@ -102,18 +102,6 @@ My technical background combines software development with hands-on troubleshoot
 
 ---
 
-## Experience Highlights
-
-**Parking System Technician — Asnoor Parking Indonesia**
-Worked with automated parking systems, network-connected devices, payment components, system configuration, database records, monitoring, troubleshooting, and incident resolution.
-
-**IT Support Technician — SSL Service Tech**
-Supported hardware, software, operating systems, workstation setup, technical troubleshooting, system stability, basic data protection, and technical documentation.
-
-These experiences strengthened my practical understanding of **systems, networks, operational reliability, troubleshooting, and security awareness**.
-
----
-
 ## Featured Project
 
 ### Hostel Barbershop — Booking & Management System
@@ -152,17 +140,6 @@ The project helped strengthen my understanding of application structure and secu
 </p>
 
 ---
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajsfano/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/rajsfano/">
-    <img src="https://img.shields.io/badge/Instagram-@rajsfano-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 <p align="center">
   <b>Cybersecurity · AI Security · Software Engineering</b>
