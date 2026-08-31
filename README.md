@@ -21,9 +21,15 @@ Building practical experience in **web application development, secure software 
 
 ## About Me
 
-I'm a **Software Engineering student** with interests across **Backend Development, Cybersecurity, and Secure Software Engineering**.
+Understanding how systems fail is what led me to cybersecurity.
 
-I enjoy building web applications while developing a deeper understanding of authentication, access control, databases, application architecture, networking, and defensive security.
+ 
+
+
+
+I’m a Software Engineering student with hands-on experience in IT support, system troubleshooting, networking, and operational systems. Today, I’m focused on Blue Team, threat detection, and security operations, while exploring how AI can support faster and smarter cyber defense.
+I’m currently turning that interest into practical skills through hands-on labs, projects, Python, and continuous learning with the goal of growing into a cybersecurity professional who understands both software and systems.
+My goal is simple: understand systems deeply enough to help defend them better.
 
 Currently building practical skills toward opportunities in:
 
