@@ -27,8 +27,9 @@ Understanding how systems fail is what led me to cybersecurity.
 
 
 
-I’m a Software Engineering student with hands-on experience in IT support, system troubleshooting, networking, and operational systems. Today, I’m focused on Blue Team, threat detection, and security operations, while exploring how AI can support faster and smarter cyber defense.
-I’m currently turning that interest into practical skills through hands-on labs, projects, Python, and continuous learning with the goal of growing into a cybersecurity professional who understands both software and systems.
+Understanding how systems fail is what led me to cybersecurity.
+I’m a Software Engineering student with hands-on experience in system troubleshooting, networking, and IT support. I’m currently building my path toward Blue Team and SOC, with a focus on threat detection, security operations, Python, and AI-assisted cyber defense.
+
 My goal is simple: understand systems deeply enough to help defend them better.
 
 Currently building practical skills toward opportunities in:
