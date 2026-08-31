@@ -33,7 +33,7 @@ My goal is simple: understand systems deeply enough to help defend them better.
 
 Currently building practical skills toward opportunities in:
 
-**Backend Development · Software Engineering · SOC / Blue Team · Application Security**
+**Building toward Blue Team & AI-assisted cyber defense . Backend Development · Software Engineering · SOC / Blue Team · Application Security**
 
 ---
 
