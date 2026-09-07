@@ -2,208 +2,237 @@
 
 # 👋 Hi, I'm Rajsfano Priariya Barisky
 
-### Software Engineering Student | Backend Developer | Aspiring Blue Team Analyst
+### Software Engineering Student • Backend Developer • Aspiring Blue Team Analyst
 
-Building software systems today, learning how to defend them tomorrow.
+Building applications, understanding systems, and learning how to defend them.
 
 <br>
 
 <a href="https://github.com/rajsfanopriariyabarisky">
-<img src="https://img.shields.io/badge/GitHub-rajsfanopriariyabarisky-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-rajsfanopriariyabarisky-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/rajsfano">
-<img src="https://img.shields.io/badge/LinkedIn-Rajsfano-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/rajsfano">
+<img src="https://img.shields.io/badge/LinkedIn-rajsfano-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
 
 
----
-
-# 🖥️ rajsfano@github ~ $ whoami
+<br>
 
 
-```bash
-Name       : Rajsfano Priariya Barisky
+## 👨‍💻 About Me
 
-Role       : Software Engineering Student
+I'm a Software Engineering student focused on building reliable software
+systems while developing my path toward **Blue Team and Defensive Security**.
 
-Foundation :
-- Backend Development
-- Web Application Engineering
-- System Troubleshooting
+My foundation comes from:
 
-Security Path :
-- Blue Team
+- Backend development
+- Web application engineering
+- Database systems
+- System troubleshooting
+
+Currently exploring:
+
 - SOC Operations
-- Defensive Security
-
-Learning :
-- Python Automation
 - Security Monitoring
+- Threat Detection
+- Application Security
+- Network Security
 - AI-assisted Cyber Defense
-👨‍💻 About Me
 
-I'm a Software Engineering student with a foundation in backend development,
-web application engineering, and system troubleshooting.
 
-My journey started from building software systems and understanding how
-applications work behind the scenes.
+> "My goal is simple: understand systems deeply enough to help defend them better."
 
-That curiosity led me toward cybersecurity, especially defensive security,
-Blue Team operations, and Security Operations Center (SOC).
 
-Currently, I'm focusing on improving my skills in:
+<br>
 
-Security Monitoring
-Threat Detection Fundamentals
-Network Security
-Application Security
-Python Automation
 
-"My goal is simple: understand systems deeply enough to help defend them better."
+## 🧰 Tech Stack
 
-🛠️ Technical Stack
-💻 Backend Development
-PHP
-Laravel
-MySQL
-MariaDB
-REST API
-Blade
-🐍 Programming & Scripting
-Python
-JavaScript
-HTML
-CSS
-SCSS
-🔧 Tools & Environment
-Linux
-Git
-GitHub
-VS Code
-Postman
-Vite
-Bootstrap
-🛡️ Cybersecurity Focus
+
+### Development
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,linux,vscode">
+
+</div>
+
+
+<br>
+
+
+## 🛡️ Security Focus
+
+
+
 Blue Team
-SOC Operations
-Security Monitoring
-Threat Detection
-Network Security
-Application Security
-AI-assisted Cyber Defense
-🚀 Featured Projects
-🤖 SmartDoc-AI
+|
+|
++-- Security Monitoring
+|
++-- SOC Fundamentals
+|
++-- Threat Detection
+|
++-- Application Security
+|
++-- Network Security
 
-AI-assisted document processing project built with Python.
 
-Focus:
 
-Python development
-AI implementation
-Automation workflow
-🏘️ Living RT
+<br>
 
-RT/RW Management System built using Laravel.
 
-Focus:
+# 🚀 Featured Projects
 
-Backend architecture
-Database management
-Web application development
-System workflow
-⚡ Electricity Billing System
 
-Postpaid electricity billing management system.
+<table>
+<tr>
+<td width="50%">
 
-Focus:
 
-Laravel development
-Database design
-Business logic implementation
-CRUD workflow
-💈 HostelBarbershop
+### 🤖 SmartDoc-AI
 
-Booking and management system using PHP and MySQL.
+Python based AI document processing project.
 
-Focus:
+**Focus**
+- Python development
+- AI workflow
+- Automation
 
-Web application development
-Database integration
-Application workflow
-🔐 Cybersecurity Journey
 
-I am currently building my foundation toward Blue Team and SOC roles.
+</td>
 
-My focus areas:
+<td width="50%">
 
-✓ Security Operations Center (SOC)
-✓ Log Analysis
-✓ Threat Detection
-✓ Network Security
-✓ Application Security
-✓ Defensive Security
 
-Future projects I plan to build:
+### 🏘️ Living RT
+
+Laravel based RT/RW management system.
+
+**Focus**
+- Backend architecture
+- Database design
+- Web application
+
+
+</td>
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+
+### ⚡ Electricity Billing System
+
+Postpaid electricity billing system.
+
+**Focus**
+- Laravel
+- MySQL
+- Business logic
+
+
+</td>
+
+
+<td width="50%">
+
+
+### 💈 HostelBarbershop
+
+Booking and management application.
+
+**Focus**
+- PHP
+- MySQL
+- Application workflow
+
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+# 🔐 Cybersecurity Journey
+
+
+I'm currently building my cybersecurity foundation through:
+
+- Security labs
+- Python scripting
+- Networking fundamentals
+- Defensive security concepts
+
+
+Future projects:
 
 - Python Log Analyzer
-- File Integrity Monitoring Tool
-- Security Event Dashboard
+- File Integrity Monitor
+- Security Dashboard
 - Network Traffic Analyzer
-🎓 Certifications & Learning
-AI in Cybersecurity Fundamentals
-Network Security Fundamentals
-Palo Alto Networks Cybersecurity Learning
-Cybersecurity Apprentice Learning Path
-Junior Python Developer
-💼 Experience
-IT Support Technician
-
-Experience with:
-
-Hardware and software troubleshooting
-Operating system configuration
-Technical incident resolution
-Root cause analysis
-Parking System Technician
-
-Experience with:
-
-Automated system maintenance
-Network-connected devices
-System monitoring
-Troubleshooting and recovery
-📚 Current Learning
-$ whoami
-
-Software Engineering Student
 
 
-$ current_goal
+<br>
 
-Build
-|
-Understand
-|
-Secure
-|
-Defend
-📫 Contact
 
-LinkedIn:
+# 🎓 Certifications & Learning
 
-https://www.linkedin.com/in/rajsfano/
 
-GitHub:
+- AI in Cybersecurity Fundamentals
+- Network Security Fundamentals
+- Palo Alto Networks Cybersecurity Learning
+- Cybersecurity Apprentice Learning Path
+- Junior Python Developer
 
+
+<br>
+
+
+# 📊 GitHub Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajsfanopriariyabarisky&show_icons=true&hide_border=true">
+
+</p>
+
+
+<br>
+
+
+# 📫 Contact
+
+
+📧 Email  
+rajsfanopriariyabarisky@gmail.com
+
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/rajsfano
+
+
+🔗 GitHub  
 https://github.com/rajsfanopriariyabarisky
+
+
+<br>
+
 
 <div align="center">
 
-Learning.
-Building.
-Securing.
+### Learning • Building • Securing
 
-</div> ```
+</div>
