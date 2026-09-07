@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Rajsfano Priariya Barisky
+# Rajsfano Priariya Barisky
 
-### Software Engineering Student • Backend Developer • Aspiring Blue Team Analyst
+### Software Engineering Student | Backend Developer | Aspiring Blue Team Analyst
 
-Building applications, understanding systems, and learning how to defend them.
+Building reliable software systems while developing skills in defensive security.
 
 <br>
 
 <a href="https://github.com/rajsfanopriariyabarisky">
-<img src="https://img.shields.io/badge/GitHub-rajsfanopriariyabarisky-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-rajsfanopriariyabarisky-181717?style=flat-square&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/rajsfano">
-<img src="https://img.shields.io/badge/LinkedIn-rajsfano-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/rajsfano">
+<img src="https://img.shields.io/badge/LinkedIn-Rajsfano-0A66C2?style=flat-square&logo=linkedin">
 </a>
 
 </div>
@@ -22,105 +22,79 @@ Building applications, understanding systems, and learning how to defend them.
 <br>
 
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Software Engineering student focused on building reliable software
-systems while developing my path toward **Blue Team and Defensive Security**.
+I'm a Software Engineering student with a foundation in backend development,
+web applications, and system troubleshooting.
 
-My foundation comes from:
+My background in building and maintaining systems led me to explore
+cybersecurity, especially:
 
-- Backend development
-- Web application engineering
-- Database systems
-- System troubleshooting
-
-Currently exploring:
-
-- SOC Operations
+- Blue Team Operations
 - Security Monitoring
-- Threat Detection
 - Application Security
 - Network Security
-- AI-assisted Cyber Defense
 
 
-> "My goal is simple: understand systems deeply enough to help defend them better."
+Currently, I'm improving my skills through software projects,
+Python scripting, security labs, and continuous learning.
 
 
-<br>
+> "Understand systems deeply enough to help defend them better."
 
 
-## 🧰 Tech Stack
+---
+
+## Tech Stack
 
 
-### Development
+<div align="center">
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,linux,vscode">
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,js,html,css,bootstrap,git,github,linux,vscode">
 
 </div>
 
 
-<br>
+---
 
-
-## 🛡️ Security Focus
-
-
-
-Blue Team
-|
-|
-+-- Security Monitoring
-|
-+-- SOC Fundamentals
-|
-+-- Threat Detection
-|
-+-- Application Security
-|
-+-- Network Security
-
-
-
-<br>
-
-
-# 🚀 Featured Projects
+## Featured Projects
 
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 
-### 🤖 SmartDoc-AI
+### SmartDoc-AI
 
-Python based AI document processing project.
+AI-assisted document processing project.
 
-**Focus**
-- Python development
+**Tech**
+- Python
 - AI workflow
 - Automation
 
 
 </td>
 
+
 <td width="50%">
 
 
-### 🏘️ Living RT
+### Living RT
 
-Laravel based RT/RW management system.
+RT/RW Management System.
 
-**Focus**
-- Backend architecture
-- Database design
-- Web application
+**Tech**
+- Laravel
+- MySQL
+- Backend Development
 
 
 </td>
+
 </tr>
 
 
@@ -129,14 +103,14 @@ Laravel based RT/RW management system.
 <td width="50%">
 
 
-### ⚡ Electricity Billing System
+### Electricity Billing System
 
-Postpaid electricity billing system.
+Postpaid electricity management system.
 
-**Focus**
+**Tech**
 - Laravel
-- MySQL
-- Business logic
+- Database Design
+- CRUD
 
 
 </td>
@@ -145,49 +119,57 @@ Postpaid electricity billing system.
 <td width="50%">
 
 
-### 💈 HostelBarbershop
+### HostelBarbershop
 
-Booking and management application.
+Booking and management system.
 
-**Focus**
+**Tech**
 - PHP
 - MySQL
-- Application workflow
+- Web Application
 
 
 </td>
+
 
 </tr>
 
 </table>
 
 
-<br>
+---
+
+## Cybersecurity Direction
 
 
-# 🔐 Cybersecurity Journey
+My current focus:
 
 
-I'm currently building my cybersecurity foundation through:
-
-- Security labs
-- Python scripting
-- Networking fundamentals
-- Defensive security concepts
-
-
-Future projects:
-
-- Python Log Analyzer
-- File Integrity Monitor
-- Security Dashboard
-- Network Traffic Analyzer
+Software Engineering
+|
+|
+Backend Development
+|
+|
+System Understanding
+|
+|
+Blue Team / SOC Operations
 
 
-<br>
+
+Areas I'm exploring:
+
+- Log Analysis
+- Threat Detection Fundamentals
+- Defensive Security
+- Network Security
+- Application Security
 
 
-# 🎓 Certifications & Learning
+---
+
+## Certifications & Learning
 
 
 - AI in Cybersecurity Fundamentals
@@ -197,42 +179,49 @@ Future projects:
 - Junior Python Developer
 
 
-<br>
+---
+
+## Experience
 
 
-# 📊 GitHub Activity
+**IT Support Technician**
+
+- Troubleshooting hardware, software, and operating systems
+- System configuration and technical support
+- Root cause analysis
 
 
-<p align="center">
+**Parking System Technician**
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajsfanopriariyabarisky&show_icons=true&hide_border=true">
-
-</p>
-
-
-<br>
+- Maintaining automated systems
+- Troubleshooting network-connected devices
+- System monitoring and recovery
 
 
-# 📫 Contact
+---
 
-
-📧 Email  
-rajsfanopriariyabarisky@gmail.com
-
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/rajsfano
-
-
-🔗 GitHub  
-https://github.com/rajsfanopriariyabarisky
-
-
-<br>
+## GitHub Stats
 
 
 <div align="center">
 
-### Learning • Building • Securing
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=rajsfanopriariyabarisky&show_icons=true&hide_border=true"/>
+
+<img height="160"
+src="https://github-readme-streak-stats.herokuapp.com/?user=rajsfanopriariyabarisky&hide_border=true"/>
 
 </div>
+
+
+---
+
+## Contact
+
+
+LinkedIn  
+https://www.linkedin.com/in/rajsfano
+
+
+GitHub  
+https://github.com/rajsfanopriariyabarisky
