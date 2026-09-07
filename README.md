@@ -4,16 +4,16 @@
 
 ### Software Engineering Student · Backend Developer · Blue Team Path
 
-Building software systems while developing skills in defensive security.
+Building software systems and developing skills in defensive security.
 
 <br>
 
 <a href="https://github.com/rajsfanopriariyabarisky">
-<img src="https://img.shields.io/badge/GitHub-rajsfanopriariyabarisky-161b22?style=for-the-badge&logo=github">
+GitHub
 </a>
-
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rajsfano">
-<img src="https://img.shields.io/badge/LinkedIn-rajsfano-161b22?style=for-the-badge&logo=linkedin">
+LinkedIn
 </a>
 
 </div>
@@ -24,214 +24,198 @@ Building software systems while developing skills in defensive security.
 
 <div align="center">
 
-```bash
-rajsfano@github ~ $ whoami
-</div> <table> <tr> <td width="55%" valign="top">
-┌────────────────────────────────────┐
-│         RAJSFANO PROFILE           │
-├────────────────────────────────────┤
-│                                    │
-│ Name       Rajsfano Priariya       │
-│            Barisky                 │
-│                                    │
-│ Role       Software Engineering    │
-│            Student                 │
-│                                    │
-│ Focus      Backend Development     │
-│                                    │
-│ Path       Blue Team → SOC         │
-│                                    │
-│ Stack      Laravel                 │
-│            PHP                     │
-│            MySQL                   │
-│            Python                  │
-│                                    │
-│ Security   Defensive Security      │
-│            AppSec                  │
-│            Network Security        │
-│                                    │
-│ Status     Open Internship         │
-│                                    │
-└────────────────────────────────────┘
-</td> <td width="45%" valign="top">
-Current Mission
-Build systems
-      |
-      v
-Understand systems
-      |
-      v
-Find weaknesses
-      |
-      v
-Improve defenses
-</td> </tr> </table> <br>
-rajsfano@github ~ $ cat about.txt
+<img src="./info-card.svg" width="700">
+
+</div>
+
+
+<br>
+
+
+## About
 
 I am a Software Engineering student focused on backend development,
 web applications, and system engineering.
 
-My foundation comes from building applications, managing databases,
-and understanding how software systems operate.
+My foundation is software development:
+building applications, designing databases, and understanding how systems work.
 
-Through software development, troubleshooting, and continuous learning,
-I became interested in cybersecurity — especially Blue Team operations,
-security monitoring, and defensive security.
+Currently, I am developing my cybersecurity path toward:
 
-My current direction:
+- Blue Team Operations
+- SOC Fundamentals
+- Security Monitoring
+- Application Security
+- Network Security
 
-Backend Engineering
-Security Operations Center (SOC) Fundamentals
-Application Security
-Network Security
-Python Automation
 
-"My goal is simple: understand systems deeply enough to help defend them better."
+> Understand systems deeply enough to help defend them better.
+
 
 <br>
-rajsfano@github ~ $ ls tech-stack/
-<table> <tr> <td valign="top" width="33%">
-Backend
+
+
+## Projects
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+### SmartDoc-AI
+
+AI-assisted document processing project.
+
+**Stack**
+- Python
+- AI workflow
+- Automation
+
+</td>
+
+
+<td width="50%">
+
+### Living RT
+
+RT/RW Management System.
+
+**Stack**
+- Laravel
+- MySQL
+- Backend Development
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+### Electricity Billing System
+
+Postpaid electricity management system.
+
+**Stack**
+- Laravel
+- MySQL
+
+</td>
+
+
+<td width="50%">
+
+### HostelBarbershop
+
+Booking management application.
+
+**Stack**
+- PHP
+- MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+## Technical Stack
+
+
+Backend:
+
+
 PHP
 Laravel
 MySQL
 MariaDB
-Blade
-REST API
-</td> <td valign="top" width="33%">
-Programming
+
+
+
+Programming:
+
+
 Python
 JavaScript
 HTML
 CSS
-SCSS
-</td> <td valign="top" width="33%">
-Tools
+
+
+
+Tools:
+
+
 Linux
 Git
 GitHub
 VS Code
 Postman
-Vite
-Bootstrap
-</td> </tr> </table> <br>
-rajsfano@github ~ $ ./projects.sh
-<table> <tr> <td width="50%" valign="top">
-🤖 SmartDoc-AI
 
-AI-assisted document processing project.
 
-Technology:
-Python
 
-Focus:
-- AI workflow
-- Automation
-- Application development
-</td> <td width="50%" valign="top">
-🏘️ Living RT
+Security:
 
-RT/RW management system.
 
-Technology:
-Laravel + MySQL
+Blue Team
+SOC Fundamentals
+Application Security
+Network Security
+Security Monitoring
 
-Focus:
-- Backend architecture
-- Database management
-- Web application
-</td> </tr> <tr> <td width="50%" valign="top">
-⚡ Electricity Billing System
 
-Postpaid electricity billing system.
 
-Technology:
-Laravel + MySQL
+<br>
 
-Focus:
-- Business logic
-- Database design
-- CRUD system
-</td> <td width="50%" valign="top">
-💈 HostelBarbershop
 
-Booking management system.
+## Learning Path
 
-Technology:
-PHP + MySQL
 
-Focus:
-- Application workflow
-- Database integration
-- Web development
-</td> </tr> </table> <br>
-rajsfano@github ~ $ ./security-path.sh
-Cybersecurity Journey
 
 Software Engineering
-        |
-        |
-        v
+
+    ↓
+
 Backend Development
-        |
-        |
-        v
+
+    ↓
+
 System Understanding
-        |
-        |
-        v
-Blue Team / SOC Operations
 
-Currently learning:
+    ↓
 
-✓ Security Monitoring
+Defensive Security
 
-✓ Threat Detection Fundamentals
+    ↓
 
-✓ Network Security
+Blue Team / SOC
 
-✓ Application Security
 
-✓ Defensive Security Concepts
 
-✓ Python Security Automation
 <br>
-rajsfano@github ~ $ cat certifications.txt
-AI in Cybersecurity Fundamentals
 
-Network Security Fundamentals
 
-Palo Alto Networks Cybersecurity Learning
+## Certifications
 
-Cybersecurity Apprentice Learning Path
 
-Junior Python Developer
+- AI in Cybersecurity Fundamentals
+- Network Security Fundamentals
+- Palo Alto Networks Cybersecurity Learning
+- Cybersecurity Apprentice Learning Path
+- Junior Python Developer
+
+
 <br>
-rajsfano@github ~ $ cat experience.log
-IT Support Technician
-
-- Hardware troubleshooting
-- Software troubleshooting
-- Operating system configuration
-- Root cause analysis
 
 
-Parking System Technician
+<div align="center">
 
-- Automated system maintenance
-- Network-connected devices
-- System monitoring
-- Incident recovery
-<br>
-rajsfano@github ~ $ contact
-LinkedIn:
-https://www.linkedin.com/in/rajsfano
+Learning · Building · Securing
 
-
-GitHub:
-https://github.com/rajsfanopriariyabarisky
-<br> <div align="center">
-Learning.
-Building.
-Securing.
-</div> ```
+</div>
